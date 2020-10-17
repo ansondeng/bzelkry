@@ -4,7 +4,7 @@ tags: TeXt
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src: /screenshots/TeXt-home.jpg
 ---
 
 亲爱的陈曦，这是你的首页2
