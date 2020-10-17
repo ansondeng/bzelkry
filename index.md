@@ -1,5 +1,5 @@
 ---
-title: Post with Header Image
+title: Bzelkry
 tags: TeXt
 article_header:
   type: cover
@@ -7,6 +7,6 @@ article_header:
     src: /screenshot.jpg
 ---
 
-A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
+亲爱的陈曦，这是你的首页
 
 <!--more-->
