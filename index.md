@@ -7,6 +7,6 @@ article_header:
     src: screenshot.jpg
 ---
 
-亲爱的陈曦，这是你的猫
+
 
 <!--more-->
